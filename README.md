@@ -140,8 +140,3 @@ You may use and modify this code freely for educational and research purposes.
 **Dataset Source:** Project Gutenberg (Shakespeare’s Complete Works)
 
 ```
-
----
-
-Would you like me to include a **“Results” section** with multiple generated text samples (using different seed inputs)? That makes the README look more complete and impressive.
-```
